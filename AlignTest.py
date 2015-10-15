@@ -28,4 +28,5 @@ for encoded in encodeds:
     print alignment
     print 'Alignment score:', alignment.score
     print 'Percent identity:', alignment.percentIdentity()
+print 'add something test...'
 
